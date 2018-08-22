@@ -1,5 +1,5 @@
 # Digit-Recognition
-HandWritten Digit Recognition Using Machine Learning in Python
+# HandWritten Digit Recognition Using Machine Learning in Python
 
 In this project, i have used three Machine Learning Data Clasification Algorithms 
 -> Support Vector Machine.
